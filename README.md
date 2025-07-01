@@ -44,4 +44,9 @@ HOW I BUILT IT:
    .how to turn words into vectors
    .how a model learn from examples
    .how to test and improve model predictions
+
+   OUTPUT:
+   ![Image](https://github.com/user-attachments/assets/138b78da-ba36-4ecb-8a03-174c6ae37d44)
+
+   ![Image](https://github.com/user-attachments/assets/822e8ca1-059d-4a1b-bb3c-0ca73e21d1e7)
    
